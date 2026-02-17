@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
+=======
+>>>>>>> origin/main
 npm run precommit
