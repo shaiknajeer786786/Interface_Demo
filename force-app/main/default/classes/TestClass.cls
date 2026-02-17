@@ -6,4 +6,7 @@ public class TestClass {
     public static void TestClass_1(){
         
     }
+    public static void TestClass_2(){
+        
+    }
 }
