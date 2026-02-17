@@ -5,15 +5,8 @@
       "default": true
     }
   ],
-<<<<<<< HEAD
   "name": "Interface DevOps",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "62.0"
-=======
-  "name": "dx-empty",
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "64.0"
->>>>>>> origin/main
 }
