@@ -7,5 +7,9 @@ public class SimpleCalculator {
         system.debug('Adding ' + a + ' and ' + b);
         return a + b;
     }
+    public static Integer multiplyNumbers(Integer a, Integer b){
+        
+        return a * b;
+    }
 
 }
