@@ -15,4 +15,7 @@ public class TestClass {
     public static void TestClass_4(){
         
     }
+    public static void TestClass_5(){
+        
+    }
 }
