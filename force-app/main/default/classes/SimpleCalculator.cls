@@ -15,5 +15,9 @@ public class SimpleCalculator {
         
         return a - b;
     }
+    public static Integer division(Integer a, Integer b){
+        
+        return a/b;
+    }
 
 }
