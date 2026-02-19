@@ -21,4 +21,7 @@ public class TestClass {
     public static void TestClass_6(){
         
     }
+    public static void TestClass_7(){
+        
+    }
 }
