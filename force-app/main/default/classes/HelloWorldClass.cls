@@ -11,8 +11,5 @@ public class HelloWorldClass {
         return 'Hi, '+ name + '!';
         
     }
-    public static string sayNamaste(String Name){
-        return 'Namaste, '+ name + '!';
-        
-    }
+
 }
