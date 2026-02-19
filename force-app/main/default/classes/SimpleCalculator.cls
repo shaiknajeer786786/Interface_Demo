@@ -11,5 +11,9 @@ public class SimpleCalculator {
         
         return a * b;
     }
+    public static Integer subtraction(Integer a, Integer b){
+        
+        return a - b;
+    }
 
 }
